@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="template" client="site" method="upgrade">
+    <name>mynewtemplate</name>
+    <author>Your Name</author>
+    <creationDate>2024-07-04</creationDate>
+    <version>1.0.0</version>
+    <description>My New Joomla Template</description>
+    <files>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+        <filename>template_preview.png</filename>
+        <folder>css</folder>
+        <folder>js</folder>
+        <folder>images</folder>
+        <filename>package.json</filename>
+        <filename>tailwind.config.js</filename>
+        <filename>postcss.config.js</filename>
+        <folder>src</folder>
+        <folder>html</folder>
+    </files>
+</extension>
