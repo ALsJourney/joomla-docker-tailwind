@@ -17,5 +17,9 @@
         <filename>postcss.config.js</filename>
         <folder>src</folder>
         <folder>html</folder>
+
     </files>
+    <scriptfiles>
+            <script>media/templates/site/mycustomtemplate/js/custom.js</script>
+    </scriptfiles>
 </extension>
